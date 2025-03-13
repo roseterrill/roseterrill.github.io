@@ -1,0 +1,12 @@
+:root
+{
+  background-image: url("images/pastelbluebackground.jpg");
+  background-color: rgb(37, 150, 190);
+  background-repeat: repeat;
+}
+body {  
+    font-family:Helvetica, serif;
+    font-size:15px;
+    color:#000;
+    background:#fff;
+}
