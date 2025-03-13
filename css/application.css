@@ -1,10 +1,12 @@
 :root
 {
-  background-color: rgb(37, 150, 190);
+  background-color: rgb(255, 230, 240);
+  backgroundn-repeat: repeat;
 }
-body {  
-    font-family:Helvetica, serif;
-    font-size:15px;
-    color:#000;
-    background:#fff;
+@font-face
+{  
+    font-family: Helvetica;
+    font-size: 15px;
+    color: #000;
+    background: #fff;
 }
