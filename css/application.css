@@ -6,7 +6,7 @@
 @font-face
 {  
     font-family: Helvetica;
-    font-size: 15px;
+    font-size: 15pt;
     color: #000;
     background: #fff;
 }
@@ -19,4 +19,11 @@ h1
 {
   font-family: minecraft;
   font-size: 30pt;
+  color: rgb(52, 174, 235);
+}
+h2
+{
+  font-family: Helvetica;
+  font-size: 20pt;
+  color: rgb(79, 38, 29);
 }
