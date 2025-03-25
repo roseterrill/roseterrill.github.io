@@ -1,0 +1,12 @@
+:root
+{
+  background-color: rgb(255, 230, 240);
+  backgroundn-repeat: repeat;
+}
+@font-face
+{  
+    font-family: Helvetica;
+    font-size: 15px;
+    color: #000;
+    background: #fff;
+}
