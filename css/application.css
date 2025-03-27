@@ -19,16 +19,22 @@ h1
 {
   font-family: minecraft;
   font-size: 50pt;
+  text-align: center;
   color: rgb(52, 174, 235);
   
 }
 h2
 {
-  font-family: Helvetica;
+  font-family: minecraft;
   font-size: 20pt;
   color: rgb(79, 38, 29);
 }
 p
+{
+  font-family: Helvetica;
+  color: rgb(79, 38, 29);
+}
+li
 {
   font-family: Helvetica;
   color: rgb(79, 38, 29);
