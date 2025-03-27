@@ -53,9 +53,9 @@ th
   font-family: minecraft;
   color: rgb(79, 38, 29);
 }
-iframe
+div, iframe
 {
   width: 800px;
   height: 800px;
-  align: center;
+  margin: auto;
 }
