@@ -6,7 +6,7 @@
 @font-face
 {  
     font-family: Helvetica;
-    font-size: 15pt;
+    font-size: 15px;
     color: #000;
     background: #fff;
 }
@@ -18,7 +18,7 @@
 h1
 {
   font-family: minecraft;
-  font-size: 50pt;
+  font-size: 50px;
   text-align: center;
   color: rgb(52, 174, 235);
   
@@ -26,8 +26,9 @@ h1
 h2
 {
   font-family: minecraft;
-  font-size: 20pt;
+  font-size: 50px;
   color: rgb(79, 38, 29);
+  text-align: center;
 }
 p
 {
@@ -38,4 +39,26 @@ li
 {
   font-family: Helvetica;
   color: rgb(79, 38, 29);
+}
+img
+{
+  width: 50px;
+  height: 50px;
+}
+th
+{
+  font-size: 50px;
+  font-family: minecraft;
+  color: rgb(79, 38, 29);
+}
+.center
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+div, iframe
+{
+  width: 800px;
+  height: 800px;
+  margin: auto;
 }
