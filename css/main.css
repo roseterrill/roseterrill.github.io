@@ -27,7 +27,7 @@ h1
 h2
 {
   font-family: Georgia;
-  font-size: 50px;
+  font-size: 30px;
   font-weight: bold;
   color: rgb(0, 0, 0);
   text-align: center;
@@ -39,7 +39,7 @@ p
 li
 {
   font-family: Georgia;
-  color: rgb(79, 38, 29);
+  color: rgb(143, 127, 136);
 }
 img
 {
