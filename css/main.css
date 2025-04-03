@@ -12,7 +12,7 @@
 }
 @font-face
 {
-  font-family: Helvetica;
+  font-family: Georgia;
   font-size: 30px;
   color: #000;
 }
@@ -26,23 +26,23 @@ h1
 }
 h2
 {
-  font-family: Helvetica;
+  font-family: Georgia;
   font-size: 50px;
+  font-weight: bold;
   color: rgb(0, 0, 0);
   text-align: center;
 }
 p
 {
-  font-family: Helvetica;
+  font-family: Georgia;
 }
 li
 {
-  font-family: Helvetica;
+  font-family: Georgia;
   color: rgb(79, 38, 29);
 }
 img
 {
-  height: 50px;
   display: block;
   margin: auto;
   width: 50%;
@@ -50,6 +50,6 @@ img
 th
 {
   font-size: 50px;
-  font-family: Helvetica;
+  font-family: Georgia;
   color: rgb(0, 0, 0);
 }
