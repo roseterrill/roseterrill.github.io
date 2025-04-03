@@ -12,8 +12,9 @@
 }
 @font-face
 {
-  font-family: minecraft;
-  src: url("fonts/Minecraft.ttf")
+  font-family: Helvetica;
+  font-size: 30px;
+  color: #000;
 }
 h1
 {
@@ -25,15 +26,14 @@ h1
 }
 h2
 {
-  font-family: minecraft;
+  font-family: Helvetica;
   font-size: 50px;
-  color: rgb(79, 38, 29);
+  color: rgb(0, 0, 0);
   text-align: center;
 }
 p
 {
   font-family: Helvetica;
-  color: rgb(79, 38, 29);
 }
 li
 {
