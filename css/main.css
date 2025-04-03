@@ -1,0 +1,53 @@
+:root
+{
+  background-color: rgb(227, 227, 255);
+  background-repeat: repeat;
+}
+@font-face
+{  
+    font-family: vogue;
+    src: url("fonts/Vogue.ttf")
+    font-size: 50px;
+    color: #000;
+}
+@font-face
+{
+  font-family: minecraft;
+  src: url("fonts/Minecraft.ttf")
+}
+h1
+{
+  font-family: vogue;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(52, 174, 235);
+  
+}
+h2
+{
+  font-family: minecraft;
+  font-size: 50px;
+  color: rgb(79, 38, 29);
+  text-align: center;
+}
+p
+{
+  font-family: Helvetica;
+  color: rgb(79, 38, 29);
+}
+li
+{
+  font-family: Helvetica;
+  color: rgb(79, 38, 29);
+}
+img
+{
+  width: 50px;
+  height: 50px;
+}
+th
+{
+  font-size: 50px;
+  font-family: minecraft;
+  color: rgb(79, 38, 29);
+}
