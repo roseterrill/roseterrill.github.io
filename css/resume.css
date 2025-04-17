@@ -1,0 +1,55 @@
+:root
+{
+  background-color: rgb(227, 227, 255);
+  background-repeat: repeat;
+}
+@font-face
+{  
+    font-family: vogue;
+    src: url("fonts/Vogue.ttf");
+    font-size: 50px;
+    color: #000;
+}
+@font-face
+{
+  font-family: Georgia;
+  font-size: 30px;
+  color: #000;
+}
+h1
+{
+  font-family: vogue;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  
+}
+h2
+{
+  font-family: Georgia;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+p
+{
+  font-family: Georgia;
+}
+li
+{
+  font-family: Georgia;
+  color: rgb(143, 127, 136);
+}
+img
+{
+  display: block;
+  margin: auto;
+  width: 50px;
+}
+th
+{
+  font-size: 50px;
+  font-family: Georgia;
+  color: rgb(0, 0, 0);
+}
