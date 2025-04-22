@@ -5,20 +5,17 @@
 }
 @font-face
 {  
-    font-family: vogue;
-    src: url("fonts/Vogue.ttf");
-    font-size: 50px;
-    color: #000;
+    font-family: apple;
+    src: url("fonts/AppleGaramond.ttf");
 }
 @font-face
 {
-  font-family: Georgia;
-  font-size: 30px;
-  color: #000;
+  font-family: applebold;
+  src: url("fonts/AppleGaramond-Bold.ttf");
 }
 h1
 {
-  font-family: vogue;
+  font-family: applebold;
   font-size: 50px;
   text-align: center;
   color: rgb(0, 0, 0);
@@ -26,7 +23,7 @@ h1
 }
 h2
 {
-  font-family: Georgia;
+  font-family: apple;
   font-size: 20px;
   font-weight: bold;
   color: rgb(0, 0, 0);
@@ -34,12 +31,12 @@ h2
 }
 p
 {
-  font-family: Georgia;
+  font-family: apple;
   text-align: center;
 }
 li
 {
-  font-family: Georgia;
+  font-family: apple;
   color: rgb(0, 0, 0);
 }
 img
@@ -51,7 +48,7 @@ img
 th
 {
   font-size: 50px;
-  font-family: Georgia;
+  font-family: apple;
   color: rgb(0, 0, 0);
 }
 .center {
