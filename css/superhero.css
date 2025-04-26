@@ -1,0 +1,75 @@
+:root
+{
+  background-color: rgb(227, 227, 255);
+  background-repeat: repeat;
+}
+@font-face
+{  
+    font-family: vogue;
+    src: url("fonts/Vogue.ttf");
+    font-size: 50px;
+    color: #000;
+}
+@font-face
+{
+  font-family: Georgia;
+  font-size: 30px;
+  color: #000;
+}
+h1
+{
+  font-family: vogue;
+  font-size: 50px;
+  text-align: center;
+  color: purple;
+  
+}
+h2
+{
+  font-family: Georgia;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+p
+{
+  font-family: Georgia;
+}
+li
+{
+  font-family: Georgia;
+  color: rgb(143, 127, 136);
+}
+img
+{
+  display: block;
+  margin: auto;
+  height: 100px;
+}
+th
+{
+  background-color: rgb(238, 130, 238)
+  color: rgb(255, 255, 255);
+	font-family: arial;
+  font-size: 18px;
+}
+td, th
+{ 
+  border: 3px solid purple;
+  padding: 15px;
+}
+.center
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+table
+{
+  border-collapse: collapse;
+}
+.header
+{
+  color: rgb(0, 0, 0);
+}
