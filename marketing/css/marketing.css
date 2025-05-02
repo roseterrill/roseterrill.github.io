@@ -1,0 +1,80 @@
+:root
+{
+  background-color: rgb(252, 233, 215);
+  background-repeat: repeat;
+}
+@font-face
+{  
+    font-family: gpslogo;
+    src: url("fonts/SakituBaelah.otf");
+    font-size: 50px;
+    color: #000;
+}
+@font-face
+{
+  font-family: Garamond;
+  font-size: 30px;
+  color: #000;
+}
+h1
+{
+  font-family: gpslogo;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  
+}
+h2
+{
+  font-family: Garamond;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+p
+{
+  font-family: Garamond;
+}
+li
+{
+  font-family: Garamond;
+  color: rgb(143, 127, 136);
+}
+img
+{
+  display: block;
+  margin: auto;
+  width: 50px;
+}
+th
+{
+  font-size: 50px;
+  font-family: Garamond;
+  color: rgb(0, 0, 0);
+}
+.center
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+.singleimg
+{
+  display: block;
+  margin: auto;
+  width: 50vw;
+  height: 25vh;
+}
+.responsive
+{
+  float: left;
+  max-width: 100%; 
+  max-height: 300px;
+  padding-right; 20px;
+}
+.header
+{
+  display: block;
+  margin: auto;
+  width: 100px
+}
