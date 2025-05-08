@@ -80,3 +80,10 @@ th
   margin: auto;
   width: 500px
 }
+.table
+{
+  font-size: 20px;
+  font-family: Garamond;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
