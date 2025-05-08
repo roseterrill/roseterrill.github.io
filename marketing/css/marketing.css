@@ -49,9 +49,10 @@ img
 }
 th
 {
-  font-size: 50px;
+  font-size: 30px;
   font-family: Garamond;
   color: rgb(0, 0, 0);
+  text-align: center;
 }
 .center
 {
